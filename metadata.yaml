@@ -1,0 +1,41 @@
+_repo: The-Determined-Angler-and-the-Brook-Trouttrout-lore-trout-resorts-and-trout-tackle_37856
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bradford, Charles Barker
+    birthdate: 1862
+    deathdate: 1917
+    gutenberg_agent_id: '33695'
+    url: http://www.gutenberg.org/2009/agents/33695
+description: ''
+gutenberg_bookshelf:
+- Animal
+- Animals-Wild
+gutenberg_issued: '2011-10-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37856'
+  lccn: '16013666'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'SH'
+- !lcsh 'Trout'
+- !lcsh 'Trout fishing'
+tableOfContents: 'The holy anglers -- Histories of the trouts how the angler takes
+  them -- The angler and the fisherman -- Fly-fishing -- Walton''s way -- The wanton
+  way -- Fly-fishing for trout -- The angler''s prayer: save the woods and waters
+  -- Trout and trouting -- Trouting in canadensis valley -- The trouter''s outfit
+  -- Trout flies, artificial and natural -- The brook trout''s rival -- Trout on barbless
+  hooks -- The brook trout incognito -- Hooking the trout -- Doctor Nature -- The
+  brook trout -- The angler -- Angling -- Trout flies -- Casting the fly -- Tackle
+  talks -- The angler''s kitchen -- Care and breeding of trout -- The angler''s clothing
+  and footwear -- Little casts -- Borrowed lines.'
+title: "The Determined Angler and the Brook Trout\r\nan anthological volume of trout\
+  \ fishing, trout histories, trout lore, trout resorts, and trout tackle"
+url: http://www.gutenberg.org/ebooks/37856
